@@ -16,9 +16,3 @@ Proyecto de Apirest para divulgación educativa.
 **Backend:** Node.js, Express, MongoDB  
 **Frontend:** Bootstrap, EJS
 **DevOps:** GitHub Actions
-
-## 🚀 Comenzar
-```bash
-git clone [url]
-npm install
-npm run dev
