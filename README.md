@@ -17,3 +17,8 @@ Proyecto de Apirest para divulgación educativa.
 **Frontend:** Bootstrap, EJS
 **DevOps:** GitHub Actions
 
+## 🚀 Comenzar
+```bash
+git clone [url]
+npm install
+npm run dev
